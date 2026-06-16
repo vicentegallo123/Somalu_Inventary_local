@@ -1,0 +1,14 @@
+# Compilados de PyInstaller
+build/
+dist/
+*.spec
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Base de datos y datos
+data/
+*.db
+*.xlsx
+*.csv
